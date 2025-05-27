@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="00ca83f6-0104-478c-8c2c-a411d6a69837">
+  <producedTypes>
+    <objectType typeId="2bccb82f-85b7-43f8-af22-c4d3ded42492" valueTypeId="4d546489-29f1-4edc-8f0d-98369dc586cd"/>
+    <managerType typeId="3f198cb0-ce47-4c0a-81f7-4398dcc0b129" valueTypeId="fdc26b29-e981-4bbe-bbe7-c078608c43c5"/>
+  </producedTypes>
+  <name>СостояниеЗаказовКлиентов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Состояние заказов клиентов</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <mainDataCompositionSchema>Report.СостояниеЗаказовКлиентов.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <templates uuid="26e65bad-f9dd-42b2-968d-356ca6675d62">
+    <name>ОсновнаяСхемаКомпоновкиДанных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
+</mdclass:Report>
